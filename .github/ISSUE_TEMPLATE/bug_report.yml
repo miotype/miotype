@@ -30,15 +30,12 @@ body:
     attributes:
       label: macOS version and Mac model
       placeholder: macOS 15.5, MacBook Air M2
-  - type: dropdown
+  - type: input
     id: mode
     attributes:
       label: Speech recognition
-      options:
-        - MioType Cloud
-        - Local Whisper (offline)
-        - My own API key
-        - Not sure
+      description: Settings → Speech recognition. Filled in for you when you report from the app.
+      placeholder: MioType Cloud, Local Whisper, or your own API key
   - type: input
     id: app
     attributes:
