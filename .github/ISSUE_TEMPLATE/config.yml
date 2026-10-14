@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Billing, refunds or account deletion
+    url: mailto:hi@miotype.com
+    about: Write to us privately instead of opening a public issue.

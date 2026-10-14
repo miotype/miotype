@@ -1,0 +1,46 @@
+name: Bug report
+description: Something doesn't work the way it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Put the cursor in ...
+        2. Press Fn and say ...
+        3. ...
+  - type: input
+    id: version
+    attributes:
+      label: MioType version
+      description: Settings → About
+      placeholder: "0.1.10"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version and Mac model
+      placeholder: macOS 15.5, MacBook Air M2
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Speech recognition
+      options:
+        - MioType Cloud
+        - Local Whisper (offline)
+        - My own API key
+        - Not sure
+  - type: input
+    id: app
+    attributes:
+      label: Which app was the cursor in?
+      placeholder: Terminal, VS Code, Slack, ...
