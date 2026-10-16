@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Sprechen statt tippen.</b> Spracheingabe und Sofortübersetzung für den Mac.<br>
+  <b>Sprich. Es tippt.</b> Spracheingabe und Sofortübersetzung für den Mac.<br>
   <kbd>Fn</kbd> drücken, sprechen, <kbd>Fn</kbd> noch einmal drücken – der Text steht an deinem Cursor, in jeder App.
 </p>
 

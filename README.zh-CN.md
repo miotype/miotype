@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>说话，不用打字。</b>Mac 上的语音输入和即时翻译。<br>
+  <b>说出来，它替你打。</b>Mac 上的语音输入和即时翻译。<br>
   按一下 <kbd>Fn</kbd> 开始说，再按一下，文字就出现在光标处，任何 App 都行。
 </p>
 

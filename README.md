@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Speak, don't type.</b> Voice typing and instant translation for the Mac.<br>
+  <b>Talk. It types.</b> Voice typing and instant translation for the Mac.<br>
   Press <kbd>Fn</kbd>, talk, press <kbd>Fn</kbd> again — the words land at your cursor, in any app.
 </p>
 

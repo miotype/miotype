@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Parlez, ne tapez plus.</b> Saisie vocale et traduction instantanée pour Mac.<br>
+  <b>Parlez. Ça s’écrit.</b> Saisie vocale et traduction instantanée pour Mac.<br>
   Appuyez sur <kbd>Fn</kbd>, parlez, appuyez de nouveau sur <kbd>Fn</kbd> : le texte s’écrit à votre curseur, dans n’importe quelle app.
 </p>
 

@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>打つより、話そう。</b>Mac のための音声入力と即時翻訳。<br>
+  <b>話せば、打ってくれる。</b>Mac のための音声入力と即時翻訳。<br>
   <kbd>Fn</kbd> を押して話し、もう一度 <kbd>Fn</kbd> を押すと、どのアプリでもカーソル位置に文字が入ります。
 </p>
 

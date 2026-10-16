@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Parla, non scrivere.</b> Dettatura vocale e traduzione istantanea per Mac.<br>
+  <b>Parla. Scrive lui.</b> Dettatura vocale e traduzione istantanea per Mac.<br>
   Premi <kbd>Fn</kbd>, parla, premi di nuovo <kbd>Fn</kbd>: il testo compare al cursore, in qualsiasi app.
 </p>
 

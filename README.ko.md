@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>타이핑 대신 말하세요.</b> Mac을 위한 음성 입력과 즉시 번역.<br>
+  <b>말하면, 대신 쳐 줘요.</b> Mac을 위한 음성 입력과 즉시 번역.<br>
   <kbd>Fn</kbd>을 누르고 말한 뒤 <kbd>Fn</kbd>을 한 번 더 누르면, 어떤 앱에서든 커서 위치에 글자가 입력됩니다.
 </p>
 

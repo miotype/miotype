@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Habla, no escribas.</b> Dictado por voz y traducción instantánea para Mac.<br>
+  <b>Habla. Queda escrito.</b> Dictado por voz y traducción instantánea para Mac.<br>
   Pulsa <kbd>Fn</kbd>, habla, pulsa <kbd>Fn</kbd> otra vez y el texto aparece en tu cursor, en cualquier app.
 </p>
 

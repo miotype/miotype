@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Fale, não digite.</b> Ditado por voz e tradução instantânea para Mac.<br>
+  <b>Fale. Ele digita.</b> Ditado por voz e tradução instantânea para Mac.<br>
   Pressione <kbd>Fn</kbd>, fale, pressione <kbd>Fn</kbd> de novo e o texto aparece no cursor, em qualquer app.
 </p>
 
