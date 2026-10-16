@@ -17,6 +17,11 @@
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ru.md">Русский</a></sub></p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lWkNX-c_a8k"><img src="assets/demo.jpg" width="720" alt="MioType-Demovideo (1 Minute)"></a><br>
+  <sub><a href="https://www.youtube.com/watch?v=lWkNX-c_a8k">▶ 1-Minuten-Demo auf YouTube ansehen</a></sub>
+</p>
+
 ---
 
 Ob dein Cursor im Terminal, in VS Code, in Cursor, im Prompt von Claude Code oder Codex, in einem Slack-Thread oder in einer Commit-Message steht – MioType ist das egal. Es schreibt dorthin, wo der Fokus liegt.

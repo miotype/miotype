@@ -17,6 +17,11 @@
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ru.md">Русский</a></sub></p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lWkNX-c_a8k"><img src="assets/demo.jpg" width="720" alt="Video dimostrativo di MioType (1 minuto)"></a><br>
+  <sub><a href="https://www.youtube.com/watch?v=lWkNX-c_a8k">▶ Guarda la demo di 1 minuto su YouTube</a></sub>
+</p>
+
 ---
 
 Il cursore può essere in un terminale, in VS Code, in Cursor, nel prompt di Claude Code o Codex, in un thread di Slack o in un messaggio di commit: MioType scrive dove si trova il focus.

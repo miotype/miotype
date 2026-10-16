@@ -17,6 +17,11 @@
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ru.md">Русский</a></sub></p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lWkNX-c_a8k"><img src="assets/demo.jpg" width="720" alt="MioType の 1 分間デモ動画"></a><br>
+  <sub><a href="https://www.youtube.com/watch?v=lWkNX-c_a8k">▶ YouTube で 1 分間のデモを見る</a></sub>
+</p>
+
 ---
 
 カーソルがターミナル、VS Code、Cursor、Claude Code や Codex のプロンプト、Slack のスレッド、コミットメッセージのどこにあっても構いません。MioType はフォーカスのある場所に入力します。

@@ -17,6 +17,11 @@
 
 <p align="center"><sub><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.de.md">Deutsch</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.pt.md">Português</a> · <a href="README.ru.md">Русский</a></sub></p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=lWkNX-c_a8k"><img src="assets/demo.jpg" width="720" alt="MioType 1분 데모 영상"></a><br>
+  <sub><a href="https://www.youtube.com/watch?v=lWkNX-c_a8k">▶ YouTube에서 1분 데모 보기</a></sub>
+</p>
+
 ---
 
 커서가 터미널, VS Code, Cursor, Claude Code나 Codex의 프롬프트, Slack 스레드, 커밋 메시지 중 어디에 있든 상관없습니다. MioType은 포커스가 있는 곳에 입력합니다.
