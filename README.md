@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Talk. It types.</b> Voice typing and instant translation for the Mac.<br>
+  <b>Talk. It types.</b> Voice typing and instant translation.<br>
   Press <kbd>Fn</kbd>, talk, press <kbd>Fn</kbd> again — the words land at your cursor, in any app.
 </p>
 
@@ -32,8 +32,8 @@ Your cursor can be in a terminal, VS Code, Cursor, a Claude Code or Codex prompt
 |---|---|
 | <kbd>Fn</kbd> | Press to start talking, press again to type it out. <kbd>Esc</kbd> cancels |
 | <kbd>Fn</kbd> + <kbd>Space</kbd> | Ask anything. Select text first to ask about it, or say "make this shorter" to rewrite it in place |
-| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Speak Chinese, get English, and back |
-| <kbd>Fn</kbd> + <kbd>Control</kbd> | Translate the selection. A single English word opens a dictionary card |
+| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Speak one language, get another |
+| <kbd>Fn</kbd> + <kbd>Control</kbd> | Translate the selection into your language, or into another you pick |
 | <kbd>Fn</kbd> + <kbd>R</kbd> | Polish the selection in place |
 | <kbd>Fn</kbd> + <kbd>S</kbd> | Look up a word or phrase |
 
@@ -42,7 +42,7 @@ Every shortcut can be rebound in Settings.
 ## Why developers like it
 
 - **It types where your cursor is.** No separate window and no copy-paste step. Dictate a long prompt to your coding agent, a PR description or an issue reply right where it goes.
-- **Mixed Chinese and English stays mixed.** Say "把这个 function 改成 async" and you get exactly that. English terms are not translated into Chinese.
+- **Mixed languages stay mixed.** Code words and names you say in English stay in English, whatever language the rest of the sentence is in.
 - **It learns your vocabulary.** Fix a misheard word right after dictating (`kubectl`, `useEffect`, your teammate's name) and MioType adds it to your dictionary, so it comes out right next time. You can also import a dictionary.
 - **Offline is one switch away.** Pick the local Whisper model in Settings and speech never leaves your Mac. It works with no network and no account.
 - **Bring your own key.** Point recognition and polishing at your own API provider instead of MioType Cloud.

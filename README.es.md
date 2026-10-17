@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Habla. Queda escrito.</b> Dictado por voz y traducción instantánea para Mac.<br>
+  <b>Habla. Queda escrito.</b> Dictado por voz y traducción instantánea.<br>
   Pulsa <kbd>Fn</kbd>, habla, pulsa <kbd>Fn</kbd> otra vez y el texto aparece en tu cursor, en cualquier app.
 </p>
 
@@ -32,8 +32,8 @@ Tu cursor puede estar en una terminal, en VS Code, en Cursor, en el prompt de Cl
 |---|---|
 | <kbd>Fn</kbd> | Pulsa para empezar a hablar y otra vez para escribirlo. <kbd>Esc</kbd> cancela |
 | <kbd>Fn</kbd> + <kbd>Space</kbd> | Pregunta lo que quieras. Selecciona texto antes para preguntar sobre él, o di «hazlo más corto» para reescribirlo en su sitio |
-| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Habla en chino y obtén inglés, y al revés |
-| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduce la selección. Una sola palabra en inglés abre una ficha de diccionario |
+| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Habla en un idioma y obtén otro |
+| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduce la selección a tu idioma, o a otro que elijas |
 | <kbd>Fn</kbd> + <kbd>R</kbd> | Pule la selección en su sitio |
 | <kbd>Fn</kbd> + <kbd>S</kbd> | Busca una palabra o expresión |
 
@@ -42,7 +42,7 @@ Todos los atajos se pueden cambiar en Configuración.
 ## Por qué gusta a los desarrolladores
 
 - **Escribe donde está tu cursor.** Sin ventana aparte y sin copiar y pegar. Dicta un prompt largo para tu agente de código, la descripción de un PR o la respuesta a un issue justo donde va.
-- **El chino mezclado con inglés se queda mezclado.** Si dices «把这个 function 改成 async», obtienes exactamente eso. Los términos en inglés no se traducen al chino.
+- **Los idiomas mezclados se quedan mezclados.** Los términos técnicos y nombres que dices en inglés se quedan en inglés, sea cual sea el idioma del resto de la frase.
 - **Aprende tu vocabulario.** Corrige una palabra mal reconocida justo después de dictar (`kubectl`, `useEffect`, el nombre de un compañero) y MioType la añade a tu diccionario para acertar la próxima vez. También puedes importar un diccionario.
 - **Sin conexión, con un solo interruptor.** Elige el modelo Whisper local en Configuración y tu voz nunca sale de tu Mac. Funciona sin red y sin cuenta.
 - **Usa tu propia clave.** El reconocimiento y el pulido pueden ir a tu propio proveedor de API en lugar de MioType Cloud.

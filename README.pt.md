@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Fale. Ele digita.</b> Ditado por voz e tradução instantânea para Mac.<br>
+  <b>Fale. Ele digita.</b> Ditado por voz e tradução instantânea.<br>
   Pressione <kbd>Fn</kbd>, fale, pressione <kbd>Fn</kbd> de novo e o texto aparece no cursor, em qualquer app.
 </p>
 
@@ -32,8 +32,8 @@ Seu cursor pode estar num terminal, no VS Code, no Cursor, no prompt do Claude C
 |---|---|
 | <kbd>Fn</kbd> | Pressione para começar a falar e de novo para digitar. <kbd>Esc</kbd> cancela |
 | <kbd>Fn</kbd> + <kbd>Space</kbd> | Pergunte qualquer coisa. Selecione um texto antes para perguntar sobre ele, ou diga "deixe mais curto" para reescrevê-lo no lugar |
-| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Fale em chinês e receba inglês, e vice-versa |
-| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduz a seleção. Uma única palavra em inglês abre um cartão de dicionário |
+| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Fale em um idioma e receba outro |
+| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduz a seleção para o seu idioma, ou para outro que você escolher |
 | <kbd>Fn</kbd> + <kbd>R</kbd> | Refina a seleção no lugar |
 | <kbd>Fn</kbd> + <kbd>S</kbd> | Procura uma palavra ou expressão |
 
@@ -42,7 +42,7 @@ Todos os atalhos podem ser alterados em Configurações.
 ## Por que desenvolvedores gostam
 
 - **Digita onde está o cursor.** Sem janela separada e sem copiar e colar. Dite um prompt longo para seu agente de código, a descrição de um PR ou a resposta a uma issue direto no lugar.
-- **Chinês misturado com inglês continua misturado.** Diga "把这个 function 改成 async" e é exatamente isso que sai. Termos em inglês não são traduzidos para o chinês.
+- **Idiomas misturados continuam misturados.** Termos técnicos e nomes que você diz em inglês continuam em inglês, seja qual for o idioma do resto da frase.
 - **Aprende seu vocabulário.** Corrija uma palavra mal reconhecida logo após o ditado (`kubectl`, `useEffect`, o nome de um colega) e o MioType a adiciona ao dicionário para acertar da próxima vez. Também dá para importar um dicionário.
 - **Offline a um botão de distância.** Escolha o modelo Whisper local em Configurações e sua voz nunca sai do Mac. Funciona sem rede e sem conta.
 - **Use sua própria chave.** Reconhecimento e refinamento podem ir para o seu provedor de API em vez do MioType Cloud.

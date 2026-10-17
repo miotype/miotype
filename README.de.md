@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Sprich. Es tippt.</b> Spracheingabe und Sofortübersetzung für den Mac.<br>
+  <b>Sprich. Es tippt.</b> Spracheingabe und Sofortübersetzung.<br>
   <kbd>Fn</kbd> drücken, sprechen, <kbd>Fn</kbd> noch einmal drücken – der Text steht an deinem Cursor, in jeder App.
 </p>
 
@@ -32,8 +32,8 @@ Ob dein Cursor im Terminal, in VS Code, in Cursor, im Prompt von Claude Code ode
 |---|---|
 | <kbd>Fn</kbd> | Drücken und sprechen, noch einmal drücken, um den Text einzufügen. <kbd>Esc</kbd> bricht ab |
 | <kbd>Fn</kbd> + <kbd>Space</kbd> | Frag, was du willst. Markiere vorher Text, um dazu zu fragen, oder sag „mach das kürzer“, um ihn direkt umzuschreiben |
-| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Chinesisch sprechen, Englisch erhalten – und umgekehrt |
-| <kbd>Fn</kbd> + <kbd>Control</kbd> | Markierten Text übersetzen. Ein einzelnes englisches Wort öffnet eine Wörterbuchkarte |
+| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | In einer Sprache sprechen, in einer anderen erhalten |
+| <kbd>Fn</kbd> + <kbd>Control</kbd> | Markierten Text in deine Sprache übersetzen – oder in eine andere, die du auswählst |
 | <kbd>Fn</kbd> + <kbd>R</kbd> | Markierten Text direkt überarbeiten |
 | <kbd>Fn</kbd> + <kbd>S</kbd> | Ein Wort oder eine Wendung nachschlagen |
 
@@ -42,7 +42,7 @@ Alle Tastenkürzel lassen sich in den Einstellungen ändern.
 ## Warum Entwickler es mögen
 
 - **Es schreibt dort, wo dein Cursor ist.** Kein zusätzliches Fenster, kein Kopieren und Einfügen. Diktiere einen langen Prompt für deinen Coding-Agent, eine PR-Beschreibung oder eine Antwort auf ein Issue direkt an Ort und Stelle.
-- **Gemischtes Chinesisch und Englisch bleibt gemischt.** Sagst du „把这个 function 改成 async“, steht genau das da. Englische Fachbegriffe werden nicht ins Chinesische übersetzt.
+- **Gemischte Sprachen bleiben gemischt.** Fachbegriffe und Namen, die du auf Englisch sagst, bleiben Englisch, egal in welcher Sprache der Rest des Satzes ist.
 - **Es lernt deinen Wortschatz.** Korrigiere ein falsch erkanntes Wort direkt nach dem Diktat (`kubectl`, `useEffect`, den Namen eines Kollegen), und MioType nimmt es ins Wörterbuch auf – beim nächsten Mal stimmt es. Du kannst auch ein Wörterbuch importieren.
 - **Offline ist nur einen Schalter entfernt.** Wähle in den Einstellungen das lokale Whisper-Modell, und deine Sprache verlässt den Mac nie. Funktioniert ohne Netz und ohne Konto.
 - **Eigener API-Schlüssel.** Erkennung und Überarbeitung können statt über MioType Cloud über deinen eigenen API-Anbieter laufen.

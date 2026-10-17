@@ -5,7 +5,7 @@
 <h1 align="center">MioType</h1>
 
 <p align="center">
-  <b>Parlez. Ça s’écrit.</b> Saisie vocale et traduction instantanée pour Mac.<br>
+  <b>Parlez. Ça s’écrit.</b> Saisie vocale et traduction instantanée.<br>
   Appuyez sur <kbd>Fn</kbd>, parlez, appuyez de nouveau sur <kbd>Fn</kbd> : le texte s’écrit à votre curseur, dans n’importe quelle app.
 </p>
 
@@ -32,8 +32,8 @@ Votre curseur peut être dans un terminal, VS Code, Cursor, le prompt de Claude 
 |---|---|
 | <kbd>Fn</kbd> | Appuyez pour commencer à parler, puis de nouveau pour écrire. <kbd>Esc</kbd> annule |
 | <kbd>Fn</kbd> + <kbd>Space</kbd> | Posez n’importe quelle question. Sélectionnez d’abord du texte pour poser une question dessus, ou dites « raccourcis ça » pour le réécrire sur place |
-| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Parlez chinois, obtenez de l’anglais, et inversement |
-| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduit la sélection. Un seul mot anglais ouvre une fiche de dictionnaire |
+| <kbd>Fn</kbd> + <kbd>Left Shift</kbd> | Parlez une langue, obtenez-en une autre |
+| <kbd>Fn</kbd> + <kbd>Control</kbd> | Traduit la sélection dans votre langue, ou dans une autre de votre choix |
 | <kbd>Fn</kbd> + <kbd>R</kbd> | Améliore la sélection sur place |
 | <kbd>Fn</kbd> + <kbd>S</kbd> | Cherche un mot ou une expression |
 
@@ -42,7 +42,7 @@ Tous les raccourcis se modifient dans les Paramètres.
 ## Pourquoi les développeurs l’adoptent
 
 - **Il écrit là où est votre curseur.** Pas de fenêtre à part, pas de copier-coller. Dictez un long prompt pour votre agent de code, la description d’une PR ou la réponse à une issue directement à sa place.
-- **Le chinois mêlé d’anglais reste mêlé.** Dites « 把这个 function 改成 async » et c’est exactement ce qui s’écrit. Les termes anglais ne sont pas traduits en chinois.
+- **Les langues mêlées restent mêlées.** Les termes techniques et les noms que vous dites en anglais restent en anglais, quelle que soit la langue du reste de la phrase.
 - **Il apprend votre vocabulaire.** Corrigez un mot mal reconnu juste après la dictée (`kubectl`, `useEffect`, le nom d’un collègue) et MioType l’ajoute à votre dictionnaire pour la prochaine fois. Vous pouvez aussi importer un dictionnaire.
 - **Le hors-ligne, à un interrupteur près.** Choisissez le modèle Whisper local dans les Paramètres : votre voix ne quitte jamais votre Mac. Ça marche sans réseau et sans compte.
 - **Votre propre clé.** La reconnaissance et l’amélioration peuvent passer par votre propre fournisseur d’API plutôt que par MioType Cloud.
